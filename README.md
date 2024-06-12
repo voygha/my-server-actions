@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project based in the tutorial of [Elhamrani Omar] (https://github.com/RyuzakiiL23)
+This is a [Next.js](https://nextjs.org/) project based in the tutorial of [Elhamrani Omar](https://github.com/RyuzakiiL23)
 
 ## Getting Started
 

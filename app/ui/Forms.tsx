@@ -20,11 +20,11 @@ export default function Forms() {
       <label htmlFor="todo" className="py-2">
         Todo
       </label>
-      <input type="text" name="todo" className="mb-2  w-62 h-10 p-2" />
+      <input type="text" name="todo" className="mb-2  w-62 h-10 p-2" required/>
       <label htmlFor="todoDeadline" className="py-2">
         Deadline
       </label>
-      <input type="date" name="todoDeadline" className=" w-62 h-10 p-2" />
+      <input type="date" name="todoDeadline" className=" w-62 h-10 p-2" required />
       <SubmitButton />
     </form>
   );
